@@ -1,0 +1,162 @@
+{% load staticfiles mptt_tags  %}
+<!DOCTYPE html>
+<html  lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>{% block head_title %} Path finder {%  endblock head_title %}</title>
+        {% block head_extra %}{% endblock %}
+    </head>
+
+<!-- Add  CSS library -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+ <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <!-- jQuery CDN -->
+        <script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.concat.min.js"></script>
+
+<!-- Add additional CSS in static file -->
+  {% load static %}
+  <link rel="stylesheet" href="{% static 'css/styles.css' %}">
+</head>
+    <style>{% block style %}{% endblock style %}</style>
+     <body>
+
+
+       <div class="wrapper">
+  <nav id="sidebar">
+                <div class="sidebar-header">
+                    <h3>Path finder</h3>
+                </div>
+
+                <ul class="list-unstyled components">
+                    
+
+<!--                     <p>Search</p>
+ -->                        <form action="/" method="get">
+                   <div class="form-group">
+
+                    {% csrf_token %}
+                    <li  class="cat" > {{ form.category }} </li>
+                <li  class="cat" >    {{ form.location }} </li>
+           <li  class="cat">
+                <input type="submit" value="Search" /> </li>
+                                   </div>
+
+            </form>
+
+
+             
+                   <!--  <li class="active">
+                        <a href="#homeSubmenu" data-toggle="collapse" aria-expanded="false">Industries</a>
+
+                        <ul class="collapse list-unstyled" id="homeSubmenu">
+
+
+
+                        {% for cat in categories %}
+                             <li><a href="#">{{cat.name}}</a></li>
+
+                                        {% endfor %}
+                           
+                            <li><a href="#">Home 2</a></li>
+                            <li><a href="#">Home 3</a></li>
+                        </ul>
+                    </li> -->
+                   <!--  <li>
+                        <a href="#">Ranking</a>
+
+                        <a href="#pageSubmenu" data-toggle="collapse" aria-expanded="false">location </a>
+
+
+
+                        <ul class="collapse list-unstyled" id="pageSubmenu"> -->
+<!--                         {{form}}
+ -->
+                       <!--  {% recursetree locations %}
+                             <li>
+                             {{ node.name }}
+                             {% if not node.is_leaf_node %}
+                             <ul class="children">
+                             {{ children }}
+                             </ul>
+                             {% endif %}
+                             </li>
+                             {% endrecursetree %} -->
+
+                            <!--  {% for loc in locations %}
+                             <li><a href="#">{{loc.name}}</a></li>
+
+                                        {% endfor %}
+                           
+                            <li><a href="#">Page 3</a></li> -->
+                        
+                    
+                  
+                </ul>
+
+                <ul class="list-unstyled CTAs">
+
+
+  <!--    Form for search -->
+
+<!-- 
+
+                <li>
+                     <form id="searchform" method="get" accept-charset="utf-8">
+      <input class="form-control"  id="searchbox" name="q" type="text" placeholder="Search">
+    </form>
+<li>
+<li> -->
+  <!--    <button type="submit" class="article ">Search</button> </li> -->
+
+
+
+
+
+                </li>    <li><a href="https://github.com/pbboxx" class="download">Download source</a></li>
+                    <li><a href="/" class="article">Back to the list</a></li>
+                </ul>
+            </nav>
+
+       <!--  <div id="content">
+            <button type="button" id="sidebarCollapse" class="btn btn-info navbar-btn">
+                <i class="glyphicon glyphicon-align-left"></i>
+                Toggle Sidebar
+            </button>
+        <div> -->
+
+</div>
+
+        {% block content %}
+
+        {% endblock content %}
+
+
+
+        <!-- jQuery CDN -->
+        <script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+        <!-- Bootstrap Js CDN -->
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+        <!-- jQuery Custom Scroller CDN -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.concat.min.js"></script>
+
+        <script type="text/javascript">
+            $(document).ready(function () {
+                $("#sidebar").mCustomScrollbar({
+                    theme: "minimal"
+                });
+
+                $('#sidebarCollapse').on('click', function () {
+                    $('#sidebar, #content').toggleClass('active');
+                    $('.collapse.in').toggleClass('in');
+                    $('a[aria-expanded=true]').attr('aria-expanded', 'false');
+                });
+            });
+        </script>
+    </body>
+
+</html>

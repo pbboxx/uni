@@ -1,0 +1,31 @@
+{% extends "base.html" %}
+{% load static %}
+{% block content %}
+<br>
+    <div style="width:100%">
+              {% for inst in programs %}
+              <div class="card text-white bg-dark mb-3" style="width:60%; margin:0 auto;">
+						  <div class="card-header">  <h3><a  href="{{ inst.link }}">{{inst.name}}</a></h3></div>
+						  <div class="card-body ">
+						    <h5 class="card-title">{{inst.university}}</h5>
+						    						   <div class="  row">
+
+						    <p class ="col-sm-6">{{inst.courses}}</p>
+						   
+                           
+                           <p class ="col-sm-6">{{inst.level}}</p>
+                            </div>
+                       <div class="  row">
+                           <p class ="col-sm-6" >{{inst.link}}</p>
+                           <p class ="col-sm-6" >{{inst.ranking}}</p>
+                           <p class ="col-sm-6" >{{ instance.content | safe | truncatechars_html:50  }}</p>
+                           <hr><br>
+                           </div>
+						  </div>
+						</div>
+
+                  </div>
+
+                {% endfor %}
+    </div>
+{% endblock %}
