@@ -13,8 +13,8 @@ class Program(models.Model):
   level = models.CharField(max_length=220)
   link =  models.CharField(max_length=220)
   ranking  =  models.CharField(max_length=220)
-  category = TreeForeignKey('Category',null=True,blank=True)
-  location=  TreeForeignKey('Location',null=True,blank=True)
+  category = TreeForeignKey('Category',null=True,blank=True, on_delete=models.CASCADE)
+  location=  TreeForeignKey('Location',null=True,blank=True, on_delete=models.CASCADE)
   content = models.TextField('Content')
   slug = models.SlugField()
 
