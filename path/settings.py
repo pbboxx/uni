@@ -142,9 +142,9 @@ DATABASES['default'].update(db_from_env)
 
 # The absolute path to the directory where collectstatic will collect static files for deployment.
 STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
-STATIC_URL = '/static/'
+STATIC_URL = '/uni/static/'
 
 
 STATICFILES_DIRS = (
-    os.path.join(BASE_DIR, 'uni/static'),
+    os.path.join(BASE_DIR, '/uni/static'),
 )
