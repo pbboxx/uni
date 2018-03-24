@@ -1,3 +1,5 @@
+
 Django
 django-crispy-forms
 django-mptt
+django-import-export

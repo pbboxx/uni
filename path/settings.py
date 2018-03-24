@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'uni',
     'mptt',
     'crispy_forms',
+    'import_export',
 
 ]
 
