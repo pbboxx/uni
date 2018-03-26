@@ -34,86 +34,26 @@
 
                 <ul class="list-unstyled components">
                     
-
-<!--                     <p>Search</p>
- -->                        <form action="/" method="get">
+                       <form action="/" method="get">
                    <div class="form-group">
 
                     {% csrf_token %}
+                       <label class="">Industry</label>
                     <li  class="cat" > {{ form.category }} </li>
+                       <label class="">Localisation</label>
+
                 <li  class="cat" >    {{ form.location }} </li>
            <li  class="cat">
-                <input type="submit" value="Search" /> </li>
+                <input type="submit" style="border-width: 1px; border-style: none; padding: 10px;margin-top: 10px;background: #fff; color: #7386D5;" value="Search" /> </li>
                                    </div>
 
             </form>
 
 
-             
-                   <!--  <li class="active">
-                        <a href="#homeSubmenu" data-toggle="collapse" aria-expanded="false">Industries</a>
 
-                        <ul class="collapse list-unstyled" id="homeSubmenu">
-
-
-
-                        {% for cat in categories %}
-                             <li><a href="#">{{cat.name}}</a></li>
-
-                                        {% endfor %}
-                           
-                            <li><a href="#">Home 2</a></li>
-                            <li><a href="#">Home 3</a></li>
-                        </ul>
-                    </li> -->
-                   <!--  <li>
-                        <a href="#">Ranking</a>
-
-                        <a href="#pageSubmenu" data-toggle="collapse" aria-expanded="false">location </a>
-
-
-
-                        <ul class="collapse list-unstyled" id="pageSubmenu"> -->
-<!--                         {{form}}
- -->
-                       <!--  {% recursetree locations %}
-                             <li>
-                             {{ node.name }}
-                             {% if not node.is_leaf_node %}
-                             <ul class="children">
-                             {{ children }}
-                             </ul>
-                             {% endif %}
-                             </li>
-                             {% endrecursetree %} -->
-
-                            <!--  {% for loc in locations %}
-                             <li><a href="#">{{loc.name}}</a></li>
-
-                                        {% endfor %}
-                           
-                            <li><a href="#">Page 3</a></li> -->
-                        
-                    
-                  
                 </ul>
 
                 <ul class="list-unstyled CTAs">
-
-
-  <!--    Form for search -->
-
-<!-- 
-
-                <li>
-                     <form id="searchform" method="get" accept-charset="utf-8">
-      <input class="form-control"  id="searchbox" name="q" type="text" placeholder="Search">
-    </form>
-<li>
-<li> -->
-  <!--    <button type="submit" class="article ">Search</button> </li> -->
-
-
 
 
 
@@ -122,21 +62,15 @@
                 </ul>
             </nav>
 
-       <!--  <div id="content">
-            <button type="button" id="sidebarCollapse" class="btn btn-info navbar-btn">
-                <i class="glyphicon glyphicon-align-left"></i>
-                Toggle Sidebar
-            </button>
-        <div> -->
 
-</div>
+
 
         {% block content %}
 
         {% endblock content %}
 
 
-
+</div>
         <!-- jQuery CDN -->
         <script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
         <!-- Bootstrap Js CDN -->

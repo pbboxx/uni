@@ -66,21 +66,6 @@ def program_list(request,filter=None):
         filter = categories.filter(id = query_cat)
         filter_node = filter.get_descendants(include_self=True)
         programs = Program.objects.filter(category_id__in=filter_node)
-        # abc  = programs.filter(category_id=8)
-        # return categories.objects.filter(level__lte=1)
-    # else:
-    #     return categories.objects.all()
-    # elif not query_cat or query_loc :
-    #     return render(request, "program_list.html",)
-
-
-
-    # if request.method == 'POST':
-    #     form = CategoryForm(request.POST)
-    #     if form.is_valid():
-    #         categories.tree.filter(level__lte=2)
-    #
-
 
 
     return render(request,"program_list.html",{ 'programs':programs, 'categories':categories, 'locations': locations,'form':form,})
