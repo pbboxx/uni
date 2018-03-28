@@ -12,10 +12,8 @@ class Program(models.Model):
   university = models.CharField(max_length=220)
   level = models.CharField(max_length=220)
   link =  models.CharField(max_length=220)
-  ranking  =  models.CharField(max_length=220)
   category = TreeForeignKey('Category',null=True,blank=True, on_delete=models.CASCADE)
   location=  TreeForeignKey('Location',null=True,blank=True, on_delete=models.CASCADE)
-  content = models.TextField('Content')
   slug = models.SlugField()
 
   def __str__(self):
