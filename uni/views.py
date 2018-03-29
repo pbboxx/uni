@@ -21,7 +21,7 @@ def program_list(request,filter=None):
     """
     categories = Category.objects.all()
     locations =Location.objects.all()
-    programs = Program.objects.all()
+    programs = Program.objects.all()[:1000]
     form= CategoryForm(request.GET)
 
     if form.is_valid():
