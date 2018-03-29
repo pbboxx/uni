@@ -20,7 +20,7 @@ class CategoryForm(forms.Form):
 	category = TreeNodeChoiceField(
 	 label=("Category"),
 	queryset=Category.objects.all(),
-	required=True,
+	required=False,
 	level_indicator=mark_safe(
 	 "&nbsp;&nbsp;&nbsp;&nbsp;"
 	 ),
@@ -28,7 +28,7 @@ class CategoryForm(forms.Form):
 	location = TreeNodeChoiceField(
 	 label=("Location"),
 	queryset=Location.objects.all(),
-	required=True,
+	required=False,
 	level_indicator=mark_safe(
 	 "&nbsp;&nbsp;&nbsp;&nbsp;"
 	 ),

@@ -23,7 +23,7 @@ class Program(models.Model):
 
 
 class Category(MPTTModel):
-  name = models.CharField(max_length=50, unique=True)
+  name = models.CharField(max_length=50)
   parent = TreeForeignKey('self', null=True, blank=True, related_name='children', db_index=True)
   slug = models.SlugField()
 
@@ -52,7 +52,7 @@ class Category(MPTTModel):
 
 
 class Location(MPTTModel):
-  name = models.CharField(max_length=50, unique=True)
+  name = models.CharField(max_length=50)
   parent = TreeForeignKey('self', null=True, blank=True, related_name='children', db_index=True)
   slug = models.SlugField()
 
