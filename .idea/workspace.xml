@@ -1,7 +1,283 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2e29d721-34f6-4319-8368-4eb59b57d014" name="Default" comment="" />
+    <list default="true" id="2e29d721-34f6-4319-8368-4eb59b57d014" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/css/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/less/icons/linea-icons/linea.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/less/icons/themify-icons/themify-icons.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/chartist-js/dist/chartist-init.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/chartist-js/dist/chartist-init.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/chartist-js/dist/chartist.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/chartist-js/dist/chartist.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/chartist-js/dist/chartist.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/chartist-js/dist/chartist.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/chartist-js/dist/chartist.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/chartist-js/dist/chartist.min.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/chartist-js/dist/scss/chartist.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/chartist-js/dist/scss/settings/_chartist-settings.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/chartist-plugin-tooltip-master/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/chartist-plugin-tooltip-master/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/chartist-plugin-tooltip-master/Gruntfile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/chartist-plugin-tooltip-master/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/chartist-plugin-tooltip-master/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/chartist-plugin-tooltip-master/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/chartist-plugin-tooltip-master/dist/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/chartist-plugin-tooltip-master/dist/chartist-plugin-tooltip.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/chartist-plugin-tooltip-master/dist/chartist-plugin-tooltip.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/chartist-plugin-tooltip-master/dist/chartist-plugin-tooltip.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/chartist-plugin-tooltip-master/dist/chartist-plugin-tooltip.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/chartist-plugin-tooltip-master/dist/chartist-plugin-tooltip.min.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/chartist-plugin-tooltip-master/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/chartist-plugin-tooltip-master/src/css/chartist-plugin-tooltip.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/chartist-plugin-tooltip-master/src/css/chartist-plugin-tooltip.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/chartist-plugin-tooltip-master/src/scripts/chartist-plugin-tooltip.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/chartist-plugin-tooltip-master/src/scss/chartist-plugin-tooltip.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/chartist-plugin-tooltip-master/tasks/aliases.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/chartist-plugin-tooltip-master/tasks/clean.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/chartist-plugin-tooltip-master/tasks/copy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/chartist-plugin-tooltip-master/tasks/jasmine.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/chartist-plugin-tooltip-master/tasks/jshint.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/chartist-plugin-tooltip-master/tasks/sass.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/chartist-plugin-tooltip-master/tasks/uglify.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/chartist-plugin-tooltip-master/tasks/umd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/chartist-plugin-tooltip-master/test/.jshintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/chartist-plugin-tooltip-master/test/runner.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/chartist-plugin-tooltip-master/test/spec/spec-tooltip.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/counterup/jquery.counterup.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/gmaps/gmaps.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/gmaps/gmaps.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/gmaps/gmaps.min.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/gmaps/jquery.gmaps.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/gmaps/lib/gmaps.controls.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/gmaps/lib/gmaps.core.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/gmaps/lib/gmaps.events.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/gmaps/lib/gmaps.geofences.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/gmaps/lib/gmaps.geometry.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/gmaps/lib/gmaps.layers.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/gmaps/lib/gmaps.map_types.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/gmaps/lib/gmaps.markers.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/gmaps/lib/gmaps.native_extensions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/gmaps/lib/gmaps.overlays.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/gmaps/lib/gmaps.routes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/gmaps/lib/gmaps.static.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/gmaps/lib/gmaps.streetview.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/gmaps/lib/gmaps.styles.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/gmaps/lib/gmaps.utils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery-sparkline/jquery.charts-sparkline.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery-sparkline/jquery.sparkline.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/dist/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/dist/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/dist/jquery.min.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/ajax.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/ajax/jsonp.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/ajax/load.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/ajax/parseJSON.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/ajax/parseXML.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/ajax/script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/ajax/var/nonce.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/ajax/var/rquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/ajax/xhr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/attributes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/attributes/attr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/attributes/classes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/attributes/prop.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/attributes/support.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/attributes/val.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/callbacks.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/core.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/core/access.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/core/init.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/core/parseHTML.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/core/ready.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/core/var/rsingleTag.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/css.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/css/addGetHookIf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/css/curCSS.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/css/defaultDisplay.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/css/hiddenVisibleSelectors.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/css/support.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/css/swap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/css/var/cssExpand.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/css/var/getStyles.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/css/var/isHidden.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/css/var/rmargin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/css/var/rnumnonpx.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/data.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/data/Data.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/data/accepts.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/data/var/data_priv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/data/var/data_user.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/deferred.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/deprecated.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/dimensions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/effects.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/effects/Tween.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/effects/animatedSelector.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/event.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/event/ajax.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/event/alias.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/event/support.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/exports/amd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/exports/global.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/intro.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/manipulation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/manipulation/_evalUrl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/manipulation/support.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/manipulation/var/rcheckableType.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/offset.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/outro.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/queue.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/queue/delay.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/selector-native.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/selector-sizzle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/selector.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/serialize.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/sizzle/dist/sizzle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/sizzle/dist/sizzle.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/sizzle/dist/sizzle.min.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/traversing.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/traversing/findFilter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/traversing/var/rneedsContext.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/var/arr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/var/class2type.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/var/concat.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/var/hasOwn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/var/indexOf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/var/pnum.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/var/push.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/var/rnotwhite.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/var/slice.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/var/strundefined.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/var/support.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/var/toString.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/jquery/src/wrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/morrisjs/.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/morrisjs/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/morrisjs/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/morrisjs/Gruntfile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/morrisjs/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/morrisjs/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/morrisjs/bower.travis.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/morrisjs/examples/_template.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/morrisjs/examples/area-as-line.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/morrisjs/examples/area.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/morrisjs/examples/bar-colors.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/morrisjs/examples/bar-no-axes.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/morrisjs/examples/bar.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/morrisjs/examples/days.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/morrisjs/examples/decimal-custom-hover.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/morrisjs/examples/diagonal-xlabels-bar.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/morrisjs/examples/diagonal-xlabels.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/morrisjs/examples/donut-colors.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/morrisjs/examples/donut-formatter.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/morrisjs/examples/donut.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/morrisjs/examples/dst.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/morrisjs/examples/events.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/morrisjs/examples/goals.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/morrisjs/examples/lib/example.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/morrisjs/examples/lib/example.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/morrisjs/examples/months-no-smooth.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/morrisjs/examples/negative.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/morrisjs/examples/no-grid.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/morrisjs/examples/non-continuous.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/morrisjs/examples/non-date.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/morrisjs/examples/quarters.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/morrisjs/examples/resize.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/morrisjs/examples/stacked_bars.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/morrisjs/examples/timestamps.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/morrisjs/examples/updating.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/morrisjs/examples/weeks.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/morrisjs/examples/years.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/morrisjs/less/morris.core.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/morrisjs/lib/morris.area.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/morrisjs/lib/morris.bar.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/morrisjs/lib/morris.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/morrisjs/lib/morris.donut.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/morrisjs/lib/morris.grid.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/morrisjs/lib/morris.hover.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/morrisjs/lib/morris.line.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/morrisjs/morris.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/morrisjs/morris.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/morrisjs/morris.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/morrisjs/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/morrisjs/spec/lib/area/area_spec.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/morrisjs/spec/lib/bar/bar_spec.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/morrisjs/spec/lib/bar/colours.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/morrisjs/spec/lib/commas_spec.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/morrisjs/spec/lib/donut/donut_spec.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/morrisjs/spec/lib/grid/auto_grid_lines_spec.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/morrisjs/spec/lib/grid/set_data_spec.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/morrisjs/spec/lib/grid/y_label_format_spec.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/morrisjs/spec/lib/hover_spec.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/morrisjs/spec/lib/label_series_spec.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/morrisjs/spec/lib/line/line_spec.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/morrisjs/spec/lib/pad_spec.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/morrisjs/spec/lib/parse_time_spec.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/morrisjs/spec/specs.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/morrisjs/spec/support/placeholder.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/morrisjs/spec/viz/examples.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/morrisjs/spec/viz/exemplary/area0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/morrisjs/spec/viz/exemplary/bar0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/morrisjs/spec/viz/exemplary/line0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/morrisjs/spec/viz/exemplary/stacked_bar0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/morrisjs/spec/viz/run.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/morrisjs/spec/viz/test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/morrisjs/spec/viz/visual_specs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/sidebar-nav/.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/sidebar-nav/Gruntfile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/sidebar-nav/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/sidebar-nav/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/sidebar-nav/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/sidebar-nav/dist/sidebar-nav.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/sidebar-nav/dist/sidebar-nav.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/sidebar-nav/dist/sidebar-nav.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/sidebar-nav/dist/sidebar-nav.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/sidebar-nav/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/sidebar-nav/src/metisMenu.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/sidebar-nav/src/metisMenu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/toast-master/css/jquery.toast.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/toast-master/js/jquery.toast.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/waypoints/lib/jquery.waypoints.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/waypoints/lib/jquery.waypoints.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/waypoints/lib/noframework.waypoints.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/waypoints/lib/noframework.waypoints.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/waypoints/lib/shortcuts/infinite.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/waypoints/lib/shortcuts/infinite.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/waypoints/lib/shortcuts/inview.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/waypoints/lib/shortcuts/inview.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/waypoints/lib/shortcuts/sticky.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/waypoints/lib/shortcuts/sticky.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/waypoints/lib/waypoints.debug.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/waypoints/lib/zepto.waypoints.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/bower_components/waypoints/lib/zepto.waypoints.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/images/admin-logo-dark.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/images/admin-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/images/admin-text-dark.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/images/admin-text.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/images/favicon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/images/large/img1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/images/users/arijit.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/images/users/genu.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/images/users/govinda.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/images/users/hritik.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/images/users/pawandeep.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/images/users/ritesh.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/images/users/sonu.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uni/static/plugins/images/users/varun.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="$PROJECT_DIR$/db.sqlite3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/path.iml" afterPath="$PROJECT_DIR$/.idea/path.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/path/settings.py" afterPath="$PROJECT_DIR$/path/settings.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/staticfiles/admin/css/base.31652d31b392.css" afterPath="$PROJECT_DIR$/staticfiles/admin/css/base.31652d31b392.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/staticfiles/admin/css/forms.15ebfebbeb3d.css" afterPath="$PROJECT_DIR$/staticfiles/admin/css/forms.15ebfebbeb3d.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/staticfiles/css/styles.css" afterPath="$PROJECT_DIR$/staticfiles/css/styles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uni/static/js/dashboard1.js" afterPath="$PROJECT_DIR$/uni/static/js/dashboard1.js" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,76 +291,94 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/uni/urls.py">
+      <file leaf-file-name="career.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/uni/templates/career.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="693">
+              <caret line="185" column="87" lean-forward="false" selection-start-line="165" selection-start-column="3" selection-end-line="185" selection-end-column="87" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/uni/templates/home.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="693">
+              <caret line="297" column="87" lean-forward="false" selection-start-line="297" selection-start-column="87" selection-end-line="297" selection-end-column="87" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="job.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/uni/templates/job.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-324">
+              <caret line="221" column="52" lean-forward="false" selection-start-line="221" selection-start-column="52" selection-end-line="221" selection-end-column="52" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/uni/templates/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="58" column="46" lean-forward="false" selection-start-line="58" selection-start-column="46" selection-end-line="58" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/path/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="135" column="40" lean-forward="true" selection-start-line="135" selection-start-column="40" selection-end-line="135" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="misc.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pages.less" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/staticfiles/less/pages.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="manage.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/manage.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <element signature="e#0#32#0" expanded="true" />
+                <element signature="e#22#31#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="forms.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/uni/forms.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="846">
-              <caret line="55" column="12" lean-forward="false" selection-start-line="55" selection-start-column="4" selection-end-line="55" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/uni/views.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="407">
-              <caret line="66" column="22" lean-forward="false" selection-start-line="66" selection-start-column="22" selection-end-line="66" selection-end-column="22" />
-              <folding>
-                <element signature="e#24#63#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/uni/models.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="702">
-              <caret line="67" column="19" lean-forward="false" selection-start-line="67" selection-start-column="6" selection-end-line="67" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="base.py" pinned="false" current-in-tab="false">
-        <entry file="file:///usr/local/lib/python2.7/dist-packages/django/core/handlers/base.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2052">
-              <caret line="131" column="0" lean-forward="false" selection-start-line="131" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/uni/templates/base.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="requirements.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/requirements.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="15" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="20" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -93,59 +387,110 @@
         <entry file="file://$PROJECT_DIR$/path/urls.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="admin.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/uni/admin.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="30" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+              <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="28" selection-end-column="17" />
               <folding>
-                <element signature="e#24#63#0" expanded="true" />
+                <element signature="e#638#680#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/path/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="37" column="23" lean-forward="false" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
-              <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>#7386D5</find>
+      <find>NULL</find>
+      <find>row[0], row[1],</find>
+      <find>get</find>
+      <find>ind</find>
+      <find>get c</find>
+      <find>upgrade</find>
+      <find>2017 &amp;copy; Ample Admin brought to you by wrappixel.com</find>
+      <find>Welcome to Ample admi</find>
+      <find>Welcome to Ample admin</find>
+      <find>Admin</find>
+      <find>log</find>
+      <find>2017 © Ample Admin</find>
+      <find>2017 © Ample Admin.</find>
+      <find>&lt;a href=&quot;index.html&quot;</find>
+      <find>&lt;a href=&quot;/&quot;</find>
+      <find>&lt;a href=&quot;/</find>
+      <find>home</find>
+      <find>/linea-arrows-10.eot</find>
+      <find>linea-basic-10.eot</find>
+      <find>../</find>
+      <find>colle</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>#222c3c</replace>
+      <replace>%s</replace>
+      <replace>row[1], row[2],</replace>
+      <replace>2018 &amp;copy; Path-finder</replace>
+      <replace>2018 © Path-Finder</replace>
+      <replace>&lt;a href=&quot;/&quot;</replace>
+      <replace>2017 © Ample Admin.</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/../</dir>
+    </dirStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="PT-01" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/uni/forms.py" />
-        <option value="$PROJECT_DIR$/uni/views.py" />
-        <option value="$PROJECT_DIR$/uni/templates/base.html" />
         <option value="$PROJECT_DIR$/requirements.txt" />
-        <option value="$PROJECT_DIR$/path/settings.py" />
         <option value="$PROJECT_DIR$/uni/admin.py" />
+        <option value="$PROJECT_DIR$/uni/templates/base.html" />
+        <option value="$PROJECT_DIR$/uni/forms.py" />
+        <option value="$PROJECT_DIR$/../migrate_ind.py" />
+        <option value="$PROJECT_DIR$/uni/models.py" />
+        <option value="$PROJECT_DIR$/../new_migration_cat.py" />
+        <option value="$PROJECT_DIR$/../migr.py" />
+        <option value="$PROJECT_DIR$/../migrate_data.py" />
+        <option value="$PROJECT_DIR$/uni/templates/program_list.html" />
+        <option value="$PROJECT_DIR$/uni/templates/indeex.html" />
+        <option value="$PROJECT_DIR$/uni/templates/profile.html" />
+        <option value="$PROJECT_DIR$/uni/static/styles.css" />
+        <option value="$PROJECT_DIR$/staticfiles/css/styles.css" />
+        <option value="$PROJECT_DIR$/uni/static/css/styles.css" />
+        <option value="$PROJECT_DIR$/uni/templates/career.html" />
+        <option value="$PROJECT_DIR$/uni/templates/basic-table.html" />
+        <option value="$PROJECT_DIR$/uni/static/js/dashboard1.js" />
+        <option value="$PROJECT_DIR$/path/urls.py" />
+        <option value="$PROJECT_DIR$/uni/templates/403.html" />
+        <option value="$PROJECT_DIR$/uni/templates/500.html" />
+        <option value="$PROJECT_DIR$/uni/templates/404.html" />
+        <option value="$PROJECT_DIR$/uni/templates/400.html" />
+        <option value="$PROJECT_DIR$/uni/templates/fontawesome.html" />
+        <option value="$PROJECT_DIR$/uni/templates/degree.html" />
+        <option value="$PROJECT_DIR$/uni/templates/index.html" />
+        <option value="$PROJECT_DIR$/uni/urls.py" />
+        <option value="$PROJECT_DIR$/uni/views.py" />
+        <option value="$PROJECT_DIR$/uni/templates/home.html" />
+        <option value="$PROJECT_DIR$/uni/templates/job.html" />
+        <option value="$PROJECT_DIR$/uni/templates/login.html" />
+        <option value="$PROJECT_DIR$/uni/static/css/icons/linea-icons/linea.css" />
+        <option value="$PROJECT_DIR$/path/settings.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="579" />
-    <option name="y" value="52" />
-    <option name="width" value="1340" />
-    <option name="height" value="1027" />
+    <option name="x" value="65" />
+    <option name="y" value="24" />
+    <option name="width" value="1855" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
+    <navigator proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -158,57 +503,81 @@
       <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="path" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="path" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="path" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="path" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="uni" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="path" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="path" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="path" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
   </component>
   <component name="RunManager" selected="Python.manage">
+    <configuration default="false" name="migrate_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="path" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../migrate_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="migrate_ind" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="path" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../migrate_ind.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="new_migration_cat" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="path" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../new_migration_cat.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="migr" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="path" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../migr.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="CompoundRunConfigurationType" factoryName="Compound Run Configuration">
       <method />
     </configuration>
@@ -380,10 +749,22 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <list size="2">
+    <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python.manage" />
       <item index="1" class="java.lang.String" itemvalue="Python.Unnamed" />
+      <item index="2" class="java.lang.String" itemvalue="Python.migrate_data" />
+      <item index="3" class="java.lang.String" itemvalue="Python.migrate_ind" />
+      <item index="4" class="java.lang.String" itemvalue="Python.new_migration_cat" />
+      <item index="5" class="java.lang.String" itemvalue="Python.migr" />
     </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Python.migrate_data" />
+        <item index="1" class="java.lang.String" itemvalue="Python.migr" />
+        <item index="2" class="java.lang.String" itemvalue="Python.new_migration_cat" />
+        <item index="3" class="java.lang.String" itemvalue="Python.migrate_ind" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -399,27 +780,46 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="579" y="52" width="1340" height="1027" extended-state="4" />
-    <editor active="false" />
+    <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34168565" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12008733" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7516129" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3075269" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48387095" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32939914" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12008733" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41196012" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-    </layout>
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4688172" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -429,144 +829,83 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/uni/views.py</url>
-          <line>56</line>
-          <option name="timeStamp" value="1" />
+          <line>144</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/uni/models.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/uni/models.py</url>
+          <line>72</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/uni/models.py</url>
+          <line>74</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/uni/models.py</url>
+          <line>65</line>
+          <option name="timeStamp" value="64" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/uni/views.py</url>
-          <line>67</line>
-          <option name="timeStamp" value="3" />
+          <line>138</line>
+          <option name="timeStamp" value="67" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/uni/views.py</url>
-          <line>64</line>
-          <option name="timeStamp" value="4" />
+          <line>140</line>
+          <option name="timeStamp" value="68" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="5" />
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="88" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/uni/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/uni/forms.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="846">
-          <caret line="55" column="12" lean-forward="false" selection-start-line="55" selection-start-column="4" selection-end-line="55" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/uni/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1188">
-          <caret line="66" column="22" lean-forward="false" selection-start-line="66" selection-start-column="22" selection-end-line="66" selection-end-column="22" />
-          <folding>
-            <element signature="e#24#63#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/uni/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1134">
-          <caret line="67" column="19" lean-forward="false" selection-start-line="67" selection-start-column="6" selection-end-line="67" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/lib/python2.7/dist-packages/django/core/handlers/base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2358">
-          <caret line="131" column="0" lean-forward="false" selection-start-line="131" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/uni/templates/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="972">
-          <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/uni/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/uni/forms.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="846">
-          <caret line="55" column="12" lean-forward="false" selection-start-line="55" selection-start-column="4" selection-end-line="55" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/uni/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1188">
-          <caret line="66" column="22" lean-forward="false" selection-start-line="66" selection-start-column="22" selection-end-line="66" selection-end-column="22" />
-          <folding>
-            <element signature="e#24#63#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/uni/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1134">
-          <caret line="67" column="19" lean-forward="false" selection-start-line="67" selection-start-column="6" selection-end-line="67" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/lib/python2.7/dist-packages/django/core/handlers/base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2052">
-          <caret line="131" column="0" lean-forward="false" selection-start-line="131" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/uni/templates/base.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="882">
           <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/uni/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#32#0" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#li#2;n#div#0;n#form#0;n#ul#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/uni/forms.py">
+    <entry file="file://$PROJECT_DIR$/uni/admin.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="846">
-          <caret line="55" column="12" lean-forward="false" selection-start-line="55" selection-start-column="4" selection-end-line="55" selection-end-column="12" />
-          <folding />
+        <state relative-caret-position="540">
+          <caret line="30" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uni/apps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uni/fields.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -574,14 +913,328 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2052">
           <caret line="131" column="0" lean-forward="false" selection-start-line="131" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uni/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28080">
+          <caret line="1595" column="0" lean-forward="false" selection-start-line="1595" selection-start-column="0" selection-end-line="1595" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uni/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="28" column="24" lean-forward="true" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="12" lean-forward="false" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uni/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="54" column="40" lean-forward="false" selection-start-line="54" selection-start-column="40" selection-end-line="54" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../migrate_ind.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="30" column="27" lean-forward="true" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../new_migration_cat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="6" lean-forward="true" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../migr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="936">
+          <caret line="52" column="23" lean-forward="true" selection-start-line="52" selection-start-column="23" selection-end-line="52" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../migrate_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="34" column="13" lean-forward="true" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../path-release/local/lib/python2.7/site-packages/django/core/handlers/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="186" column="0" lean-forward="false" selection-start-line="186" selection-start-column="0" selection-end-line="186" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../path-release/local/lib/python2.7/site-packages/django/core/handlers/exception.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="846">
+          <caret line="66" column="24" lean-forward="false" selection-start-line="66" selection-start-column="24" selection-end-line="66" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uni/templates/program_details.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uni/templates/indeex.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="128" column="0" lean-forward="true" selection-start-line="128" selection-start-column="0" selection-end-line="128" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uni/templates/categories.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uni/templates/profile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uni/static/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7992">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uni/templates/program_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="666">
+          <caret line="47" column="33" lean-forward="true" selection-start-line="33" selection-start-column="27" selection-end-line="47" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/staticfiles/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="97" column="1" lean-forward="true" selection-start-line="97" selection-start-column="1" selection-end-line="97" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uni/static/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1890">
+          <caret line="105" column="22" lean-forward="true" selection-start-line="105" selection-start-column="22" selection-end-line="105" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uni/static/js/dashboard2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="153" column="16" lean-forward="false" selection-start-line="153" selection-start-column="16" selection-end-line="153" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uni/templates/403.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uni/templates/500.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-597">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uni/templates/404.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="40" column="58" lean-forward="false" selection-start-line="40" selection-start-column="39" selection-end-line="40" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uni/templates/400.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="25" column="22" lean-forward="false" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uni/templates/fontawesome.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="372" column="52" lean-forward="false" selection-start-line="372" selection-start-column="52" selection-end-line="372" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uni/static/js/custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uni/templates/degree.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="53" lean-forward="false" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
+          <folding>
+            <element signature="n#div#2;n#div#1;n#div#0;n#div#0;n#!!top" expanded="false" />
+            <element signature="e#12801#12807#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uni/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="225" column="31" lean-forward="true" selection-start-line="225" selection-start-column="31" selection-end-line="225" selection-end-column="31" />
+          <folding>
+            <element signature="n#style#0;n#h3#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#a#0;n#li#0;n#ul#0;n#li#2;n#ul#0;n#div#0;n#nav#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#a#0;n#li#2;n#ul#0;n#li#2;n#ul#0;n#div#0;n#nav#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#a#0;n#li#4;n#ul#0;n#li#2;n#ul#0;n#div#0;n#nav#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#a#0;n#li#6;n#ul#0;n#li#2;n#ul#0;n#div#0;n#nav#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/uni/templates/base.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+        <state relative-caret-position="558">
+          <caret line="31" column="40" lean-forward="true" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uni/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2124">
+          <caret line="118" column="0" lean-forward="false" selection-start-line="118" selection-start-column="2" selection-end-line="156" selection-end-column="133" />
+          <folding>
+            <element signature="e#24#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uni/static/js/dashboard1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uni/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uni/static/js/cbpFWTabs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uni/templates/basic-table.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="196" column="22" lean-forward="false" selection-start-line="196" selection-start-column="22" selection-end-line="196" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uni/static/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uni/templates/career.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="185" column="87" lean-forward="false" selection-start-line="165" selection-start-column="3" selection-end-line="185" selection-end-column="87" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uni/templates/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="297" column="87" lean-forward="false" selection-start-line="297" selection-start-column="87" selection-end-line="297" selection-end-column="87" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uni/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="58" column="46" lean-forward="false" selection-start-line="58" selection-start-column="46" selection-end-line="58" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uni/static/css/icons/linea-icons/linea.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="940">
+          <caret line="532" column="29" lean-forward="false" selection-start-line="532" selection-start-column="29" selection-end-line="532" selection-end-column="29" />
           <folding />
         </state>
       </provider>
@@ -589,52 +1242,60 @@
     <entry file="file://$PROJECT_DIR$/path/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="28" selection-end-column="17" />
+          <folding>
+            <element signature="e#638#680#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uni/templates/job.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-324">
+          <caret line="221" column="52" lean-forward="false" selection-start-line="221" selection-start-column="52" selection-end-line="221" selection-end-column="52" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/staticfiles/less/pages.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#22#31#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/path/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="37" column="23" lean-forward="false" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
+        <state relative-caret-position="380">
+          <caret line="135" column="40" lean-forward="true" selection-start-line="135" selection-start-column="40" selection-end-line="135" selection-end-column="40" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/requirements.txt">
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="15" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="20" />
+        <state relative-caret-position="54">
+          <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/uni/admin.py">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="30" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding>
-            <element signature="e#24#63#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/uni/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
-          <caret line="67" column="19" lean-forward="false" selection-start-line="67" selection-start-column="6" selection-end-line="67" selection-end-column="19" />
+        <state relative-caret-position="108">
+          <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/uni/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="66" column="22" lean-forward="false" selection-start-line="66" selection-start-column="22" selection-end-line="66" selection-end-column="22" />
-          <folding>
-            <element signature="e#24#63#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>

@@ -2,4 +2,6 @@
 #Database
 *.sqlite3
 # python files
-*.pyc 
+*.pyc
+
+.idea/

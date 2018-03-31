@@ -21,3 +21,9 @@ urlpatterns = [
     url(r'^', include("uni.urls", namespace="uni")),
 
 ]
+
+
+handler404 = 'uni.views.not_found'
+handler500 = 'uni.views.server_error'
+handler403 = 'uni.views.permission_denied'
+handler400 = 'uni.views.bad_request'
