@@ -10,8 +10,6 @@ from .forms import CategoryForm
 from mptt.forms import MoveNodeForm
 
 
-
-
 def program_list(request,filter=None):
     """
 
