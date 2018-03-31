@@ -146,3 +146,9 @@ DATABASES['default'].update(db_from_env)
 STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 STATIC_URL = '/static/'
 
+
+
+
+# login automatic redirect
+LOGIN_REDIRECT_URL = '/home'
+LOGIN_URL= '/login'
